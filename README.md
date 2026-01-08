@@ -3,7 +3,7 @@
 A Machine Learning web application designed to classify books into one of the 10 main classes of the **Dewey Decimal Classification (DDC)** system based on their **Title** and **Description**.
 
 ## Live Demo
-*[(Paste link aplikasi Streamlit Anda di sini setelah deploy)](https://ddc-prediction-svc.streamlit.app/)*
+*[(Dewey Decimal Classification (DDC) Predictor)](https://ddc-prediction-svc.streamlit.app/)*
 
 ## Model & Methodology
 
