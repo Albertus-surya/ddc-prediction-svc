@@ -1,8 +1,4 @@
-# 📚 Dewey Decimal Classification (DDC) Predictor
-
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+#  Dewey Decimal Classification (DDC) Predictor
 
 A Machine Learning web application designed to classify books into one of the 10 main classes of the **Dewey Decimal Classification (DDC)** system based on their **Title** and **Description**.
 
